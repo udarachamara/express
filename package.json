@@ -1,0 +1,26 @@
+{
+  "name": "express-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bower": "^1.8.4",
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "mysql": "^2.16.0",
+    "ejs": "^2.6.1",
+    "pug": "^2.0.3",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^4.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://@richhamerkop.scm.azurewebsites.net/RichHamerkop.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
